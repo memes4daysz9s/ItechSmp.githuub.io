@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	fileMode = false
+	bare = false
+	logallrefupdates = true
+[user]
+	name = ayunami2000
+	email = <>
+[remote "origin"]
+	url = https://github.com/ayunami2000/eaglercraft-replit
+	fetch = +refs/heads/*:refs/remotes/origin/*
